@@ -1,0 +1,19 @@
+.cardImage {
+  display: block;
+  width: 200px;
+}
+
+.cardTitle {
+  text-align: center;
+  font-weight: bold;
+}
+
+.cardDesc {
+  text-align: center;
+  width: 200px;
+}
+
+.cardWrapper {
+  display: flex;
+  align-items: center;
+}

@@ -1,0 +1,18 @@
+.counterWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  margin: 0 auto;
+  padding: 20px;
+  border:2px solid black;
+}
+
+.decrement,
+.increment {
+  padding: 10px 20px;
+  margin: 10px;
+  background:whitesmoke;
+  color:black ;
+  text-transform: uppercase;
+}
